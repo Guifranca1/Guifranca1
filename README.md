@@ -8,7 +8,7 @@ I hold a degree in Economics from Insper, with a minor in Finance. Over the cour
 # 💻 Tech Stack:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-276d6c?style=for-the-badge)
 # 📊 Analytics
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![EVIEWS](https://img.shields.io/badge/EVIEWS-2ea44f?style=for-the-badge) ![STATA](https://img.shields.io/badge/STATA-0d74e7?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![EVIEWS](https://img.shields.io/badge/EVIEWS-2ea44f?style=for-the-badge) ![STATA](https://img.shields.io/badge/STATA-0d74e7?style=for-the-badge) ![Power BI](https://img.shields.io/badge/Power_BI-yellow?style=for-the-badge) ![Power Query](https://img.shields.io/badge/Power_Query-grey?style=for-the-badge)
 # 💾 Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 # 🏢 Office
