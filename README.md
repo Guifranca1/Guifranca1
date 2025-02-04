@@ -24,14 +24,17 @@ I hold a degree in Economics from Insper, with a minor in Finance. Over the cour
 ![EVIEWS](https://img.shields.io/badge/EViews-5A7D3E?style=flat&logo=ev-views&logoColor=white) 
 ![STATA](https://img.shields.io/badge/Stata-3C6F8C?style=flat&logo=stata&logoColor=white) 
 ![Power BI](https://img.shields.io/badge/Power_BI-3D9BE8?style=flat&logo=power-bi&logoColor=white) 
-![Power Query](https://img.shields.io/badge/Power_Query-8E8E8E?style=flat&logo=powerquery&logoColor=white)
 
 # 💾 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-6B8E9D?style=flat&logo=mysql&logoColor=white)
 
+# ☁️ Cloud
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white)
+
 # 🏢 Office
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-3E7D43?style=flat&logo=microsoft-excel&logoColor=white) 
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-9F3D2D?style=flat&logo=microsoft-powerpoint&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-8E8E8E?style=flat&logo=powerquery&logoColor=white)
 
 # 🎨 Design
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-4A9BFF?style=flat&logo=adobe-photoshop&logoColor=white) 
