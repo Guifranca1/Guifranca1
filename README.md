@@ -10,7 +10,7 @@
 </br>
 
 ## 🏡 Personal
-[![Bookshelf](https://img.shields.io/badge/Bookshelf-green)](https://github.com/Guifranca1/BookShelf/blob/main/README.md) 
+[![Bookshelf](https://img.shields.io/badge/Bookshelf-green)]((https://guifranca1.github.io/BookShelf-Page/)) 
 [![UNDERGRADUATE THESIS](https://img.shields.io/badge/Undergraduate_Thesis-red)](https://repositorio.insper.edu.br/entities/publication/39057915-d176-45f8-85cd-6bb69506fcd2) 
 [![RESUME](https://img.shields.io/badge/Resume_CV-yellow)](https://github.com/Guifranca1/Resume/blob/main/Guilherme%20Fran%C3%A7a%20CV%20-%20English%202025.pdf) 
 
