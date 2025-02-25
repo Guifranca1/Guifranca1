@@ -30,6 +30,7 @@ I hold a degree in Economics from Insper, with a minor in Finance. Over the cour
 
 # ☁️ Cloud
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white)
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
 
 # 🏢 Office
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-3E7D43?style=flat&logo=microsoft-excel&logoColor=white) 
