@@ -1,7 +1,10 @@
-<h1 align="center"> 🙋‍♂️ About Me </h1>
+<h1 align="center"> 👋 Hey, I'm Gui! | Business Analyst / Data Analyst </h1>
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWh3N2FlMzd5NXpneXowaTN1cGQ0ZXlxZWtybHh1ZTB5bjMzZGpieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBwdIuRJiAIqHwA/giphy.gif" width="200"/>
+</div>
 </br>
   
-I hold a degree in Economics from Insper, with a minor in Finance. Over the course of several years in the financial market, I gained experience in areas such as Judicial Recovery and Corporate Restructuring, fixed-income portfolio management, and later, as a banker. These experiences allowed me to refine both my analytical and commercial skills, while also sparking a strong interest in data analysis and the development of strategies aimed at sustainable growth and solving complex problems. Currently, I work as a data analyst, leveraging my expertise to guide strategic decisions and contribute to organizational growth through data-driven solutions.
+:brazil: Brazilian Economist from Insper (minor in Finance) | Former banker and corporate restructuring specialist | Passionate about data analysis and sustainable growth. Today, I work as a **Business Analyst Consultant**, driving strategic decisions with data-driven solutions.
 
 
 </br>
@@ -62,10 +65,8 @@ I hold a degree in Economics from Insper, with a minor in Finance. Over the cour
 </br>
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Guifranca1&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Guifranca1&theme=github-dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guifranca1&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+![Gui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guifranca1&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guifranca1&layout=compact&theme=radical)
 </br>
 
 ## 💻 LeetCode Stats
