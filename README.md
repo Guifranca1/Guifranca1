@@ -26,7 +26,7 @@
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-4B8BBE?style=flat&logo=python&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-4D4D4D?style=flat&logo=visual-studio-code&logoColor=white)
+
 
 
 
@@ -52,7 +52,7 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-3E7D43?style=flat&logo=microsoft-excel&logoColor=white) 
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-9F3D2D?style=flat&logo=microsoft-powerpoint&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power_Query-8E8E8E?style=flat&logo=powerquery&logoColor=white)
-
+![VBA](https://img.shields.io/badge/VBA-4D4D4D?style=flat&logo=visual-studio-code&logoColor=white)
 
 
 ## 🎨 Design
