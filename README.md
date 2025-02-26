@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hey, I'm Gui! | Business Analyst / Data Analyst </h1>
+<h1 align="center"> 👋 Hey, I'm Gui! | Business Intelligence / Data Analyst </h1>
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWh3N2FlMzd5NXpneXowaTN1cGQ0ZXlxZWtybHh1ZTB5bjMzZGpieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBwdIuRJiAIqHwA/giphy.gif" width="200"/>
 </div>
