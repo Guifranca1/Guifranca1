@@ -4,7 +4,23 @@
 
 ### Business Intelligence Analyst | Quantitative Finance Enthusiast | Ocean Explorer 🌊
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWh3N2FlMzd5NXpneXowaTN1cGQ0ZXlxZWtybHh1ZTB5bjMzZGpieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBwdIuRJiAIqHwA/giphy.gif" width="250"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Q0d2cxajVvZmNxNzM4bjc2MHE5bmR4cXhudzI2Nnp0eG51ZHpjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XWHe62Za5zPck/giphy.gif" width="500"/>
+
+</div>
+
+---
+
+## 📖 Featured Research
+
+<div align="center">
+
+[![Thesis](https://img.shields.io/badge/📚_Undergraduate_Thesis-Complex_Networks_for_Portfolio_Construction-FF6B6B?style=for-the-badge)](https://repositorio.insper.edu.br/entities/publication/39057915-d176-45f8-85cd-6bb69506fcd2)
+
+**"Construction of Complex Networks via Transfer Entropy for Portfolio Building"**
+
+*Developed a novel approach using Lagged Effective Transfer Entropy (LETE) as an alternative to traditional covariance-based methods, demonstrating improved stability during high-volatility periods in financial markets.*
+
+[![Read Full Thesis](https://img.shields.io/badge/Read_Full_Thesis-Insper_Repository-0077B5?style=flat-square&logo=academia&logoColor=white)](https://repositorio.insper.edu.br/entities/publication/39057915-d176-45f8-85cd-6bb69506fcd2)
 
 </div>
 
@@ -142,7 +158,17 @@ Developed a novel approach to portfolio construction using Lagged Effective Tran
 
 <div align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com/?user=Guifranca1&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guifranca1&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)
+
+</div>
+
+---
+
+## 🎮 GitHub 3D Contribution Graph
+
+<div align="center">
+
+![3D Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Guifranca1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9)
 
 </div>
 
@@ -168,11 +194,13 @@ Developed a novel approach to portfolio construction using Lagged Effective Tran
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Guifranca1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+| 🎯 **Total Repos** | ⭐ **Total Stars** | 🔱 **Total Forks** | 📊 **Total Contributions** |
+|:------------------:|:------------------:|:------------------:|:--------------------------:|
+| ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Repositories&query=%24.public_repos&url=https://api.github.com/users/Guifranca1&style=for-the-badge&logo=github) | ![Stars](https://img.shields.io/github/stars/Guifranca1?style=for-the-badge&logo=github&color=yellow) | ![Forks](https://img.shields.io/badge/dynamic/json?color=green&label=Forks&query=%24.forks&url=https://api.github.com/users/Guifranca1/repos&style=for-the-badge&logo=github) | ![Contributions](https://img.shields.io/badge/dynamic/json?color=red&label=Contributions&query=%24.total_contributions&url=https://github-contributions-api.jogruber.de/v4/Guifranca1?y=last&style=for-the-badge) |
 
 </div>
 
@@ -190,6 +218,6 @@ Developed a novel approach to portfolio construction using Lagged Effective Tran
 
 <div align="left">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Guifranca1&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Guifranca1&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
