@@ -6,8 +6,6 @@
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWh3N2FlMzd5NXpneXowaTN1cGQ0ZXlxZWtybHh1ZTB5bjMzZGpieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBwdIuRJiAIqHwA/giphy.gif" width="250"/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Guifranca1&color=blueviolet&style=flat-square)](https://github.com/Guifranca1)
-
 </div>
 
 ---
@@ -138,15 +136,13 @@ Developed a novel approach to portfolio construction using Lagged Effective Tran
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guifranca1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guifranca1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guifranca1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guifranca1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
 </div>
 
 <div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guifranca1&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)](https://git.io/streak-stats)
+  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Guifranca1&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)
 
 </div>
 
@@ -162,24 +158,38 @@ Developed a novel approach to portfolio construction using Lagged Effective Tran
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Guifranca1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💡 *"Bridging econophysics, data science, and ocean conservation—one analysis at a time"*
 
 **📫 Open to collaborations in quantitative finance, healthcare analytics, and marine data science**
 
+</div>
+
 ---
 
-![Snake animation](https://github.com/Guifranca1/Guifranca1/blob/output/github-contribution-grid-snake-dark.svg)
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Guifranca1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Guifranca1/Guifranca1/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="left">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Guifranca1&color=blueviolet&style=flat-square)
 
 </div>
