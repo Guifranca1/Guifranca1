@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey, I'm Gui!
+# 👋 Hey, I'm Guilherme!
 
 ### Business Intelligence Analyst | Quantitative Finance Enthusiast | Ocean Explorer 🌊
 
@@ -127,7 +127,7 @@ Developed a novel approach to portfolio construction using Lagged Effective Tran
 
 </details>
 
-<details>
+<details open>
 <summary><b>🏢 Office Suite</b></summary>
 <br>
 
@@ -137,7 +137,7 @@ Developed a novel approach to portfolio construction using Lagged Effective Tran
 
 </details>
 
-<details>
+<details open>
 <summary><b>🎨 Design Tools</b></summary>
 <br>
 
